@@ -1,4 +1,4 @@
-package currentlocation.algotix.com.currentlocation;
+package com.algotix.currentlocation;
 
 import android.app.Activity;
 import android.location.Address;

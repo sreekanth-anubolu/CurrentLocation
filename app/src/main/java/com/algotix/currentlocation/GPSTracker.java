@@ -1,4 +1,4 @@
-package currentlocation.algotix.com.currentlocation;
+package com.algotix.currentlocation;
 
 import android.app.AlertDialog;
 import android.app.Service;
